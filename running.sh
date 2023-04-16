@@ -1,0 +1,1 @@
+python train_trn.py --trainN 5 --N 5 --K 1 --Q 1 --model TRN --encoder bert --hidden_size 768 --val_step 1000 --batch_size 8
